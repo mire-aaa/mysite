@@ -314,11 +314,7 @@ bottom:-0.25em;
     width:  200px;
   }
 
-.contact {
-    height: 600px;
-    
-    
-}
+
 
 .contact h1 {
     text-align: center;
@@ -326,7 +322,7 @@ bottom:-0.25em;
 }
 
 .contact h2 {
-    text-align: center;
+    text-align: center
 }
 /* .textbox { */
     /* display: block; */
